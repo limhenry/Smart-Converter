@@ -5,4 +5,7 @@ Beta now available on Windows (32-bit and 64-bit)
 
 Coming Soon on Linux and Mac OS X.
 
-Download now!
+Download now! [Link](https://converter.limhenry.me/download)
+
+Read more info on [converter.limhenry.me](https://converter.limhenry.me)
+
